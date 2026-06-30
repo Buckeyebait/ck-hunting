@@ -41,6 +41,7 @@ verified on desktop and mobile (375px), including the mobile slide-out menu.
 The source photos are low resolution (max ~868px wide; most 560px). They hold up at the sizes used,
 but for a live build we would swap in CK Hunting's full-resolution originals.
 
-## Not deployed
-Publishing is the founders' call (standing guardrail). To go live like Webster's Skyvision, push to
-GitHub Pages under the `Buckeyebait` account.
+## Deployed
+LIVE at **https://buckeyebait.github.io/ck-hunting/** (repo `Buckeyebait/ck-hunting`, public, GitHub
+Pages from `main` root). The page carries `noindex` so the concept demo stays out of search results.
+The `scrape/` working folder is gitignored and not part of the public repo.
